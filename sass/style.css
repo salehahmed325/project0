@@ -1,0 +1,117 @@
+/* line 11, style.scss */
+.intro .intro_container {
+  margin-top: 115px; }
+  /* line 14, style.scss */
+  .intro .intro_container img {
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    border: 4px solid #808080;
+    margin: 0 17px 0 0; }
+  /* line 21, style.scss */
+  .intro .intro_container div {
+    color: #808080; }
+    /* line 24, style.scss */
+    .intro .intro_container div h3 {
+      font-size: 40px; }
+    /* line 27, style.scss */
+    .intro .intro_container div h1 {
+      font-size: 60px; }
+
+/* line 35, style.scss */
+.intro_btn_container .row {
+  margin-top: 80px; }
+
+
+
+
+
+/* line 46, style.scss */
+.navbar .navbar-brand img {
+  border-radius: 50%;
+  border: 1px solid black; }
+
+
+
+
+/* line 53, style.scss */
+.about_me {
+  padding-top: 80px; }
+  /* line 56, style.scss */
+  .about_me .heading {
+    text-align: center;
+    color: #808080;
+    margin-top: 40px; }
+    /* line 61, style.scss */
+    .about_me .heading .underline {
+      height: 3px;
+      width: 120px;
+      background-color: #808080;
+      margin: 0 auto 10px auto; }
+  /* line 67, style.scss */
+  .about_me .content {
+    text-align: justify;
+    color: #808080;
+    margin-top: 40px;
+    padding: 0 68px; }
+  /* line 74, style.scss */
+  .about_me .about_me_tables {
+    text-align: justify;
+    margin-top: 40px;
+    padding: 0 68px; }
+    /* line 79, style.scss */
+    .about_me .about_me_tables .heading {
+      color: #808080;
+      margin-top: 35px; }
+      /* line 83, style.scss */
+      .about_me .about_me_tables .heading .underline {
+        height: 3px;
+        width: 120px;
+        background-color: #808080;
+        margin-bottom: 20px; }
+    /* line 89, style.scss */
+    .about_me .about_me_tables table tbody {
+      color: #808080; }
+  /* line 95, style.scss */
+  .about_me .education_heading {
+    color: #808080;
+    margin-top: 35px; }
+    /* line 99, style.scss */
+    .about_me .education_heading .underline {
+      height: 3px;
+      width: 120px;
+      background-color: #808080;
+      margin-bottom: 20px; }
+
+
+
+
+
+
+
+
+/* line 108, style.scss */
+.contact_me {
+  padding-top: 80px; }
+  /* line 111, style.scss */
+  .contact_me .heading {
+    text-align: center;
+    color: #808080;
+    margin-top: 40px; }
+    /* line 116, style.scss */
+    .contact_me .heading .underline {
+      height: 3px;
+      width: 120px;
+      background-color: #808080;
+      margin: 0 auto 0 auto; }
+  /* line 121, style.scss */
+  .contact_me .form_container {
+    color: #808080;
+    margin-top: 20px; }
+    /* line 125, style.scss */
+    .contact_me .form_container form {
+      color: #808080;
+      width: 50%;
+      margin: 0 auto; }
+
+/*# sourceMappingURL=style.css.map */
